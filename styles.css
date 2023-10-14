@@ -62,3 +62,8 @@ iframe {
     display: block;
     border-style:none;
 }
+
+blockquote {
+  display: block;
+  border-style: none;
+}
